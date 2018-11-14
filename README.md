@@ -1,5 +1,6 @@
 # testConfigServer
 Part of a spring cloud sample 
+Tutorial link : https://www.youtube.com/watch?v=ZyK5QrKCbwM
 
 ## Config Server 
 The config services are in a  remote repository who Josh Long developed and shared as a part of his tutorial which this project is based on
