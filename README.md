@@ -27,6 +27,6 @@ The config services are in a  remote repository who Josh Long developed and shar
 	</dependencies>
   *** Actuator dependency is optional on new versions of spring cloud 
 ## Run
-Run as a Spring boot app the main class 
+Run the main class as a Spring boot app 
 ## Query
 http://localhost:8888/config-service/master
